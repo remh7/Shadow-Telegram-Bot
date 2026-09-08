@@ -30,6 +30,7 @@ This repository contains information about the project only.
 Developed and maintained by **remh7**
 
 ---
+---
 
 **Project:** Shadow Telegram Game Bot
 **Status:** Active
